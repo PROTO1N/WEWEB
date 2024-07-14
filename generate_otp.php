@@ -1,5 +1,6 @@
 <?php
-session_start();
+
+// session_start();
 include('server.php'); // Include your database connection file
 
 // Include PHPMailer classes
